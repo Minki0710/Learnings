@@ -5,6 +5,7 @@ permalink: /regex/
 ---
 
 #Notes about Regex files
+
 /text/ --> Literal text match
 /text/i --> adding 'i' ignores case of letters
 /text/g --> adding 'g' matches the word text as many times as it is in the data
